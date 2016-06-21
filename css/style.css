@@ -1,0 +1,73 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+	height: 100%;
+}
+
+#header{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(../images/image_header.jpg);
+}
+
+#header_culturevelo{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(../images/culturevelo.jpg);
+}
+
+#header_bouticycle{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(../images/bouticycle.jpg);
+}
+
+#header_velostation{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-image: url(../images/velostation.jpg);
+}
+
+
+#test{
+	padding-top: 10em;
+}
+
+#formulaire{
+	width: 500px;
+	list-style-type: none;
+	padding:2em;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0,0,0,0.5);
+	text-align:center;
+	color: white;
+}
+
+#accueil{
+	width: 500px;
+	list-style-type: none;
+	padding:2em;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0,0,0,0.5);
+	text-align:center;
+	color: white;
+}
+
+.logos_partenaires{
+
+	width:100px;
+
+}
+
+.logos_partenaires:hover {
+
+	color: white;
+	opacity: 0.5;
+}
